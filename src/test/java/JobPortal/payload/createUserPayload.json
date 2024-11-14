@@ -1,0 +1,40 @@
+  {
+  "experience": [
+    "5+ years of experience in full-stack development, specializing in front-end and back-end development.",
+    "Skilled in Agile methodologies and DevOps practices, working with cross-functional teams."
+  ],
+  "jobDescription": "We are looking for a skilled Full-Stack Developer to join our team to build scalable web applications and enhance user experience.",
+  "jobId": 12345,
+  "jobTitle": "Full-Stack Developer",
+  "project": [
+    {
+      "projectName": "E-commerce Platform Development",
+      "technology": [
+        "React.js",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "AWS"
+      ]
+    },
+    {
+      "projectName": "Inventory Management System",
+      "technology": [
+        "Angular",
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ]
+    },
+    {
+      "projectName": "Mobile App for Retail",
+      "technology": [
+        "React Native",
+        "Firebase",
+        "GraphQL",
+        "Google Cloud"
+      ]
+    }
+  ]
+}

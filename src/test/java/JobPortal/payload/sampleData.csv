@@ -1,0 +1,5 @@
+url,path,method,status
+http://example1.com,/user/create,post,201
+http://example2.com,/user/update,put,200
+http://example3.com,/user/delete,delete,202
+http://example4.com,/user/get,get,200
