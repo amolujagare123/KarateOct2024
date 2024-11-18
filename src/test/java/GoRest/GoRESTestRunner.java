@@ -9,9 +9,9 @@ public class GoRESTestRunner {
     @Test
     public Karate runner()
     {
-      return Karate.run("GoRest")
+      return Karate.run("GoRestPassingValue")
               .relativeTo(getClass())
-              .tags("@create3");
+              .tags("@createPassingValue");
     }
 
 }
